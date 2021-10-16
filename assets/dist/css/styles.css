@@ -44,6 +44,9 @@
 .active {
   background: #28a745 !important;
 }
+.main-footer strong a {
+  color: #3d9970 !important;
+}
 @-webkit-keyframes animate-preloader {
   0% {
     transform: rotate(0deg);
